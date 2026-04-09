@@ -39,7 +39,7 @@
 
 ## Пример данных в базе
 
-![Database Screenshot](images/db1.png)
+<img width="712" height="238" alt="db1" src="https://github.com/user-attachments/assets/def98b28-5854-4020-94ff-9d092fedd6e8" />
 
 ## Как запустить
 
